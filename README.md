@@ -138,6 +138,6 @@ Detalles en [Arquitectura y metodología](docs/ARCHITECTURE.md).
 
 Ambos repositorios exploran necesidades de un comercio ficticio: **DataBridge integra y limpia información**, y **SQL Clinic enseña a acelerar consultas sobre datos comerciales**. No comparten tablas físicamente ni dependen uno del otro: se pueden publicar y ejecutar individualmente.
 
-## Licencia
+## Autor y licencia
 
-MIT. Ejercicios destinados a aprendizaje técnico y portafolio.
+**Fanaker Labs** · Proyecto personal de optimización SQL, índices y análisis de rendimiento de consultas. Código bajo licencia [MIT](LICENSE).
